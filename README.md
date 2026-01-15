@@ -1,4 +1,4 @@
-# 🖥️ Frontend Project: Zero Earbuds & Watches Landing Page
+# 🖥️ Frontend Project: Zero Earbuds Landing Page
 
 A simple **frontend landing page built with React** showcasing Zero Earbuds and Smart Watches products.  
 This project focuses on clean design and product presentation.  
