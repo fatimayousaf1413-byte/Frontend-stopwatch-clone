@@ -1,0 +1,22 @@
+.box-img{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+.image-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.image-item span{
+    line-height: normal;
+    font-size: 0.75rem;
+    color: #000;
+    font-weight: 400;
+    text-align: center;
+}

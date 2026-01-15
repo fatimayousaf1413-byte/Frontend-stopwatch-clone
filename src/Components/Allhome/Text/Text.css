@@ -1,0 +1,13 @@
+.text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 15px;
+}
+.text h2, h3, h4{
+    margin-top: 0px 0px;
+    font-weight: 600;
+}
+.text p {
+    line-height: 28px;
+}

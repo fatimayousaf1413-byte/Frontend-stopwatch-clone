@@ -1,0 +1,12 @@
+.image img{
+    height: 519px;
+    width: 1351px;
+}
+.heading h2{
+    font-weight: 600;
+    color: #333;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 25px;
+}
